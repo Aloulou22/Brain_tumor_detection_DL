@@ -125,7 +125,7 @@ Confidence: 97.85%
 
 ## 🛠️ Technologies Used
 
-### Backend & Machine Learning
+### Backend & Deep Learning
 - **TensorFlow/Keras**: Deep Learning framework
 - **VGG16**: Pre-trained CNN architecture
 - **NumPy**: Matrix manipulation and numerical computations
