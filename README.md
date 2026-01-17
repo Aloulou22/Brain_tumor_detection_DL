@@ -2,18 +2,6 @@
 
 An automatic brain tumor detection system based on Deep Learning using Transfer Learning with VGG16. This project classifies MRI images into 4 categories: Glioma, Meningioma, Pituitary, and No Tumor.
 
-## 📑 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Model Architecture](#model-architecture)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-
 ## 🎯 Overview
 
 This project implements an intelligent brain tumor detection system capable of analyzing MRI images and automatically classifying tumors. The web application allows healthcare professionals to upload MRI images and instantly receive a diagnosis with a confidence level.
