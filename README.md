@@ -15,12 +15,12 @@ This project implements an intelligent brain tumor detection system capable of a
 
 ## Features
 
-- ✅ **Transfer Learning** with pre-trained VGG16 architecture
-- ✅ **Data augmentation** to improve robustness
-- ✅ **Intuitive web interface** with Flask and Bootstrap
-- ✅ **Real-time prediction** with confidence score display
-- ✅ **Automatic image preprocessing** (normalization, resizing)
-- ✅ **Results visualization** with uploaded image
+- **Transfer Learning** with pre-trained VGG16 architecture
+- **Data augmentation** to improve robustness
+- **Intuitive web interface** with Flask and Bootstrap
+- **Real-time prediction** with confidence score display
+- **Automatic image preprocessing** (normalization, resizing)
+- **Results visualization** with uploaded image
 
 ## Model Architecture
 
@@ -85,7 +85,7 @@ The application will be accessible at: `http://localhost:5000`
 3. Click "Upload and Detect"
 4. View the result with tumor type and confidence level
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 brain-tumor-detection/
@@ -107,7 +107,7 @@ brain-tumor-detection/
     └── Testing/
 ```
 
-## 📈 Results
+## Results
 
 The model achieves the following performance on the test set:
 
@@ -123,7 +123,7 @@ Output: Tumor: glioma
 Confidence: 97.85%
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Backend & Deep Learning
 - **TensorFlow/Keras**: Deep Learning framework
